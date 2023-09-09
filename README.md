@@ -1,2 +1,7 @@
 # CODSOFT
 CODSOFT tasks
+
+These are the projects completed in the duration of 4 weeks internship
+CREDITCARD FRAUD DETECTION
+TITANIC SURVIVAL PREDICTION
+IRISH FLOWER CLASSIFICATION
